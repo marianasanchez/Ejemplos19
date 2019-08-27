@@ -13,7 +13,7 @@ import java.util.List;
  * @author prog2
  */
 public class VentanaNuevoRecurso extends javax.swing.JFrame {
-    List<Recurso> listaRecursos= new ArrayList<>(); 
+    ArrayList<Recurso> listaRecursos= new ArrayList<>(); 
     /**
      * Constructor de VentanaNuevoRecurso
      */
